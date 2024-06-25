@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+@font-face {
+    font-family: 'Raleway';         /** import font raleway **/
+    src: url('../fonts/Raleway.woff');
+    src: url('../fonts/Raleway.ttf') format(Truetype), }
+
 html { 
     margin: auto;
     background: white;   
