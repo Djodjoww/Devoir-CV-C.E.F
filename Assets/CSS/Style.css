@@ -1,0 +1,19 @@
+html { 
+    margin: auto;
+    background: white;   
+}
+
+header {
+    text-align: center;
+    color: white;
+}
+
+.bloc_header img { /** Profile picture **/
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+    border: 2px solid black;
+    box-shadow: 6px 6px 25px black;
+    cursor: zoom-in;
+    object-fit: cover;
+}
